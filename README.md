@@ -1,4 +1,4 @@
 Decide
 ======
 
-Decide, Test.
+Decide, Test!
