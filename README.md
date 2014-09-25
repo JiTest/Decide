@@ -1,4 +1,4 @@
-Decider
+Deciders
 ======
 
 Decide, Test?
