@@ -1,4 +1,12 @@
 Decide
 ======
 
-Decide, Test?
+Decide, Test.
+
+Test
+====
+Always.
+
+Decide
+====
+First.
